@@ -1,7 +1,7 @@
 **POU 2 OBJETIVOS**
-- [] Criar uma interface gráfica
-- [] Criar status de fome e sono
-- [] Botões de alimentar e dormir
+-  Criar uma interface gráfica
+- Criar status de fome e sono
+- Botões de alimentar e dormir
 
 
 **poures**
